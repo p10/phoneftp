@@ -92,6 +92,7 @@ function mapIcon(i) {
 
 /**
  * @typedef {{name: string; type: number; size: number; rawModifiedAt: string}} ListItem
+ */
 
 /**
  * @arg {Client} client
