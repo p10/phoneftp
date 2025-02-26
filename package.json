@@ -1,0 +1,22 @@
+{
+  "name": "phoneftp",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "bin": {
+    "phoneftp": "src/index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.19.0",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "basic-ftp": "^5.0.5",
+    "zx": "^8.3.2"
+  }
+}
